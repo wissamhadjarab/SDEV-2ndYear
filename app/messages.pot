@@ -1,0 +1,346 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-04-25 12:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: templates/base.html:31 templates/includes/ko/mainNav.html:10
+#: templates/index.html:30
+msgid "Services"
+msgstr ""
+
+#: templates/base.html:37 templates/includes/ko/mainNav.html:16
+#: templates/includes/sv/mainNav.html:16 templates/index.html:36
+msgid "Languages"
+msgstr ""
+
+#: templates/base.html:41 templates/includes/en/mainNav.html:14
+#: templates/includes/ko/mainNav.html:21 templates/includes/sv/mainNav.html:19
+#: templates/index.html:40
+msgid "English"
+msgstr ""
+
+#: templates/base.html:42 templates/includes/en/mainNav.html:15
+#: templates/includes/ko/mainNav.html:22 templates/includes/sv/mainNav.html:20
+#: templates/index.html:41
+msgid "Swedish"
+msgstr ""
+
+#: templates/base.html:43 templates/includes/en/mainNav.html:16
+#: templates/includes/ko/mainNav.html:23 templates/includes/sv/mainNav.html:21
+#: templates/index.html:42
+msgid "Korean"
+msgstr ""
+
+#: templates/base.html:46 templates/index.html:44
+msgid "Places"
+msgstr ""
+
+#: templates/base.html:47 templates/includes/en/mainNav.html:19
+#: templates/includes/ko/mainNav.html:26 templates/includes/sv/mainNav.html:24
+#: templates/index.html:45
+msgid "Offers"
+msgstr ""
+
+#: templates/base.html:48 templates/includes/en/mainNav.html:20
+#: templates/includes/ko/mainNav.html:27 templates/includes/sv/mainNav.html:25
+#: templates/index.html:46
+msgid "Contact"
+msgstr ""
+
+#: templates/base.html:69
+msgid "Copyright &copy; Your Website 2023"
+msgstr ""
+
+#: templates/index.html:53
+msgid "Welcome To Our Studio!"
+msgstr ""
+
+#: templates/index.html:54
+msgid "It is Nice To Meet You"
+msgstr ""
+
+#: templates/index.html:55
+msgid "Tell Me More"
+msgstr ""
+
+#: templates/includes/en/about.html:5 templates/includes/ko/about.html:5
+msgid "Family Accommodation"
+msgstr ""
+
+#: templates/includes/en/about.html:6 templates/includes/ko/about.html:6
+msgid "Explore family-friendly accommodations."
+msgstr ""
+
+#: templates/includes/en/about.html:12 templates/includes/ko/about.html:12
+msgid "Comfortable Stay"
+msgstr ""
+
+#: templates/includes/en/about.html:13 templates/includes/ko/about.html:13
+msgid "Spacious Rooms"
+msgstr ""
+
+#: templates/includes/en/about.html:16 templates/includes/ko/about.html:16
+msgid "Enjoy spacious and comfortable rooms suitable for families of all sizes."
+msgstr ""
+
+#: templates/includes/en/about.html:21 templates/includes/ko/about.html:21
+msgid "Family Activities"
+msgstr ""
+
+#: templates/includes/en/about.html:22 templates/includes/ko/about.html:22
+msgid "Fun for Everyone"
+msgstr ""
+
+#: templates/includes/en/about.html:25 templates/includes/ko/about.html:25
+msgid ""
+"Engage in a variety of family-friendly activities offered by our "
+"accommodations."
+msgstr ""
+
+#: templates/includes/en/about.html:32 templates/includes/ko/about.html:32
+msgid "Child-Friendly Facilities"
+msgstr ""
+
+#: templates/includes/en/about.html:33 templates/includes/ko/about.html:33
+msgid "Safety First"
+msgstr ""
+
+#: templates/includes/en/about.html:36 templates/includes/ko/about.html:36
+msgid ""
+"Our accommodations provide child-friendly facilities and ensure a safe "
+"environment for your family."
+msgstr ""
+
+#: templates/includes/en/about.html:41 templates/includes/ko/about.html:41
+msgid "Family Dining"
+msgstr ""
+
+#: templates/includes/en/about.html:42 templates/includes/ko/about.html:42
+msgid "Delicious Meals"
+msgstr ""
+
+#: templates/includes/en/about.html:45 templates/includes/ko/about.html:45
+msgid "Enjoy delicious meals together with your family in our dining areas."
+msgstr ""
+
+#: templates/includes/en/mainNav.html:18 templates/includes/ko/mainNav.html:25
+#: templates/includes/sv/mainNav.html:23
+msgid "About"
+msgstr ""
+
+#: templates/includes/en/offers.html:5 templates/includes/ko/offers.html:5
+msgid "Family Offers"
+msgstr ""
+
+#: templates/includes/en/offers.html:6 templates/includes/ko/offers.html:6
+msgid "Discover our family-friendly services and activities!"
+msgstr ""
+
+#: templates/includes/en/offers.html:19 templates/includes/ko/offers.html:19
+msgid "Family Adventure"
+msgstr ""
+
+#: templates/includes/en/offers.html:20 templates/includes/ko/offers.html:20
+msgid "Exciting Activities for All Ages"
+msgstr ""
+
+#: templates/includes/en/services.html:4 templates/includes/ko/services.html:4
+msgid "Booking"
+msgstr ""
+
+#: templates/includes/en/services.html:5 templates/includes/ko/services.html:5
+msgid "To help your holiday planning."
+msgstr ""
+
+#: templates/includes/en/services.html:13
+#: templates/includes/ko/services.html:13
+msgid "Flights"
+msgstr ""
+
+#: templates/includes/en/services.html:14
+#: templates/includes/ko/services.html:14
+msgid "Affordable flights for you and the family."
+msgstr ""
+
+#: templates/includes/en/services.html:21
+#: templates/includes/ko/services.html:21
+msgid "Accomdations"
+msgstr ""
+
+#: templates/includes/en/services.html:22
+#: templates/includes/ko/services.html:22
+msgid "Easy, accessable and affordable places to stay."
+msgstr ""
+
+#: templates/includes/en/services.html:29
+#: templates/includes/ko/services.html:29
+msgid "Transport"
+msgstr ""
+
+#: templates/includes/en/services.html:30
+#: templates/includes/ko/services.html:30
+msgid "Different ways to get around airports "
+msgstr ""
+
+#: templates/includes/ko/offers.html:35
+msgid "Family Fun"
+msgstr ""
+
+#: templates/includes/ko/offers.html:36
+msgid "Enjoyable Activities for the Whole Family"
+msgstr ""
+
+#: templates/includes/ko/offers.html:50
+msgid "Family Entertainment"
+msgstr ""
+
+#: templates/includes/ko/offers.html:51
+msgid "Exciting Entertainment Options for Families"
+msgstr ""
+
+#: templates/includes/ko/offers.html:58
+msgid "Click Here for Offers"
+msgstr ""
+
+#: templates/includes/sv/about.html:5
+msgid "Solo Travel Accommodation"
+msgstr ""
+
+#: templates/includes/sv/about.html:6
+msgid "Explore accommodations ideal for solo travelers."
+msgstr ""
+
+#: templates/includes/sv/about.html:13
+msgid "Cozy Rooms"
+msgstr ""
+
+#: templates/includes/sv/about.html:14
+msgid "Comfort and Convenience"
+msgstr ""
+
+#: templates/includes/sv/about.html:17
+msgid ""
+"Experience cozy and comfortable rooms tailored for solo travelers, "
+"providing both comfort and convenience."
+msgstr ""
+
+#: templates/includes/sv/about.html:22
+msgid "Single Occupancy"
+msgstr ""
+
+#: templates/includes/sv/about.html:23
+msgid "Personal Space"
+msgstr ""
+
+#: templates/includes/sv/about.html:26
+msgid ""
+"Enjoy the luxury of single occupancy rooms, providing you with your own "
+"personal space during your stay."
+msgstr ""
+
+#: templates/includes/sv/about.html:33
+msgid "Convenient Amenities"
+msgstr ""
+
+#: templates/includes/sv/about.html:34
+msgid "All You Need"
+msgstr ""
+
+#: templates/includes/sv/about.html:37
+msgid ""
+"Benefit from convenient amenities and facilities designed to meet the "
+"needs of solo travelers, ensuring a hassle-free experience."
+msgstr ""
+
+#: templates/includes/sv/about.html:42
+msgid "Accessible Location"
+msgstr ""
+
+#: templates/includes/sv/about.html:43
+msgid "Explore With Ease"
+msgstr ""
+
+#: templates/includes/sv/about.html:46
+msgid ""
+"Stay in accommodations located in convenient and accessible areas, "
+"allowing you to explore your destination with ease."
+msgstr ""
+
+#: templates/includes/sv/offers.html:15
+msgid "Solo Adventure"
+msgstr ""
+
+#: templates/includes/sv/offers.html:16
+msgid "Exciting Solo Travel Destinations"
+msgstr ""
+
+#: templates/includes/sv/offers.html:30
+msgid "Cultural Explorations"
+msgstr ""
+
+#: templates/includes/sv/offers.html:31
+msgid "Discover Unique Cultures Around the World"
+msgstr ""
+
+#: templates/includes/sv/offers.html:47
+msgid "Outdoor Adventures"
+msgstr ""
+
+#: templates/includes/sv/offers.html:48
+msgid "Experience Thrilling Outdoor Activities"
+msgstr ""
+
+#: templates/includes/sv/offers.html:55
+msgid "Explore More Offers"
+msgstr ""
+
+#: templates/includes/sv/services.html:4
+msgid "Solo Travel"
+msgstr ""
+
+#: templates/includes/sv/services.html:5
+msgid "Tailored options for your solo adventure."
+msgstr ""
+
+#: templates/includes/sv/services.html:13
+msgid "Flight Booking"
+msgstr ""
+
+#: templates/includes/sv/services.html:14
+msgid "Explore affordable flight options for your solo journey."
+msgstr ""
+
+#: templates/includes/sv/services.html:21
+msgid "Accommodation"
+msgstr ""
+
+#: templates/includes/sv/services.html:22
+msgid ""
+"Find easy, accessible, and budget-friendly places to stay during your "
+"solo trip."
+msgstr ""
+
+#: templates/includes/sv/services.html:29
+msgid "Transportation"
+msgstr ""
+
+#: templates/includes/sv/services.html:30
+msgid ""
+"Discover various transportation options for navigating airports and your "
+"destination as a solo traveler."
+msgstr ""
+

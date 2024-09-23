@@ -1,0 +1,21 @@
+
+{% extends 'base.html' %}
+
+{% set lang_code = session['language'] %}
+
+
+        <!-- Services-->
+            {% block services %}
+            {% include 'includes/' + lang_code + '/services.html' %}
+            {% endblock %}
+
+        <!---Offers--->
+            {% block offers %}
+            {% include 'includes/' + lang_code + '/offers.html' %}
+            {% endblock %}
+
+            <!-- ======= About Section ======= -->
+            {% block about %}
+            {% include 'includes/' + lang_code + '/about.html' %}
+            {% endblock %}
+
